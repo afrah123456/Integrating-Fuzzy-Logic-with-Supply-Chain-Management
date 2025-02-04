@@ -3,4 +3,4 @@ Supply chain management concepts are of            great importance in the     c
 
 
 
-<img width="1440" alt="Screen Shot 2023-12-31 at 19 00 45" src="https://github.com/aaqil-12/SCM-Fuzzy-Logic/assets/108874413/8e502390-555e-4154-ba4e-384d0417a218">
+
